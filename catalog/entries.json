@@ -35,8 +35,7 @@
       "projectId": "EMB-052",
       "title": "Ember Graph",
       "category": "graph",
-      "summary": "Streaming graph feature store for recommendation models.",
-      "sourceRepositoryName": "excel_filesystem_terminal_emails_github_2999-k7q2m9-ember-graph"
+      "summary": "Streaming graph feature store for recommendation models."
     }
   ]
 }
