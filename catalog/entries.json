@@ -1,0 +1,42 @@
+{
+  "catalog": "Copperline Research Public Catalog",
+  "feedVersion": "2026.1",
+  "generatedFor": "2025-Q4 refresh",
+  "entries": [
+    {
+      "projectId": "ATL-014",
+      "title": "Atlas Vector Index",
+      "category": "retrieval",
+      "summary": "Dense nearest-neighbour index with adaptive quantization.",
+      "sourceRepositoryName": "excel_filesystem_terminal_emails_github_2999-k7q2m9-atlas-vector"
+    },
+    {
+      "projectId": "BCN-022",
+      "title": "Beacon Sync",
+      "category": "ingestion",
+      "summary": "Bidirectional change-data-capture sync for edge deployments.",
+      "sourceRepositoryName": "excel_filesystem_terminal_emails_github_2999-k7q2m9-beacon-sync",
+      "sourceRepositoryUrl": "https://github.com/copperline-research/beacon-sync"
+    },
+    {
+      "projectId": "CPH-031",
+      "title": "Cipher Lens",
+      "category": "attention",
+      "summary": "Sparse attention toolkit for long-context retrieval workloads.",
+      "sourceRepositoryName": "excel_filesystem_terminal_emails_github_2999-k7q2m9-cipher-lens"
+    },
+    {
+      "projectId": "DRF-047",
+      "title": "Drift Probe",
+      "category": "monitoring",
+      "summary": "Statistical drift detection for evaluation pipelines."
+    },
+    {
+      "projectId": "EMB-052",
+      "title": "Ember Graph",
+      "category": "graph",
+      "summary": "Streaming graph feature store for recommendation models.",
+      "sourceRepositoryName": "excel_filesystem_terminal_emails_github_2999-k7q2m9-ember-graph"
+    }
+  ]
+}
