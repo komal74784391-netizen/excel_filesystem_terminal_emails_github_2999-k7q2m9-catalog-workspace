@@ -1,6 +1,6 @@
 {
   "catalog": "Copperline Research Public Catalog",
-  "feedVersion": "2026.1",
+  "feedVersion": "2026.2",
   "generatedFor": "2025-Q4 refresh",
   "entries": [
     {
@@ -8,7 +8,15 @@
       "title": "Atlas Vector Index",
       "category": "retrieval",
       "summary": "Dense nearest-neighbour index with adaptive quantization.",
-      "sourceRepositoryName": "excel_filesystem_terminal_emails_github_2999-k7q2m9-atlas-vector"
+      "sourceRepositoryName": "excel_filesystem_terminal_emails_github_2999-k7q2m9-atlas-vector",
+      "latestQuarter": "2025-Q4",
+      "latestQuarterMetrics": {
+        "downloads": 10845,
+        "medianSessionMinutes": 12.1,
+        "growthRate": 3.6999999999999997,
+        "activeSeats": 1913
+      },
+      "sourceRepositoryUrl": "https://github.com/komal74784391-netizen/excel_filesystem_terminal_emails_github_2999-k7q2m9-atlas-vector"
     },
     {
       "projectId": "BCN-022",
@@ -16,26 +24,54 @@
       "category": "ingestion",
       "summary": "Bidirectional change-data-capture sync for edge deployments.",
       "sourceRepositoryName": "excel_filesystem_terminal_emails_github_2999-k7q2m9-beacon-sync",
-      "sourceRepositoryUrl": "https://github.com/copperline-research/beacon-sync"
+      "sourceRepositoryUrl": "https://github.com/komal74784391-netizen/excel_filesystem_terminal_emails_github_2999-k7q2m9-beacon-sync",
+      "latestQuarter": "2025-Q4",
+      "latestQuarterMetrics": {
+        "downloads": 7122,
+        "medianSessionMinutes": 11,
+        "growthRate": 2.9000000000000004,
+        "activeSeats": 1011
+      }
     },
     {
       "projectId": "CPH-031",
       "title": "Cipher Lens",
       "category": "attention",
       "summary": "Sparse attention toolkit for long-context retrieval workloads.",
-      "sourceRepositoryName": "excel_filesystem_terminal_emails_github_2999-k7q2m9-cipher-lens"
+      "sourceRepositoryName": "excel_filesystem_terminal_emails_github_2999-k7q2m9-cipher-lens",
+      "latestQuarter": "2025-Q4",
+      "latestQuarterMetrics": {
+        "downloads": 4502,
+        "medianSessionMinutes": 6.6,
+        "growthRate": 6.1,
+        "activeSeats": 1079
+      }
     },
     {
       "projectId": "DRF-047",
       "title": "Drift Probe",
       "category": "monitoring",
-      "summary": "Statistical drift detection for evaluation pipelines."
+      "summary": "Statistical drift detection for evaluation pipelines.",
+      "latestQuarter": "2025-Q4",
+      "latestQuarterMetrics": {
+        "downloads": 2501,
+        "medianSessionMinutes": 5.7,
+        "growthRate": 1.0,
+        "activeSeats": 365
+      }
     },
     {
       "projectId": "EMB-052",
       "title": "Ember Graph",
       "category": "graph",
-      "summary": "Streaming graph feature store for recommendation models."
+      "summary": "Streaming graph feature store for recommendation models.",
+      "latestQuarter": "2025-Q4",
+      "latestQuarterMetrics": {
+        "downloads": 8551,
+        "medianSessionMinutes": 11.2,
+        "growthRate": 8.7,
+        "activeSeats": 1128
+      }
     }
   ]
 }
